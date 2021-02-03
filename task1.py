@@ -3,9 +3,7 @@
 # (2 points)
 #
 # Inputs:
-# name
-# email
-#
-# Sample output:
-# Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
+
+
+print("hello")
 
